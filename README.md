@@ -40,7 +40,7 @@
 Before running the miner, configure the following settings in the `E.BTC-Miner.py` script:
 
 - `main_wallet_address`: Your main Pulsechain wallet address.
-- `main_wallet_address_private_key`: Private key for the above wallet.
+- `main_wallet_address_private_key`: Private key for the above wallet (note for participating devs: implement manual entry of private key during runtime)
 - Gas-related settings such as `only_claim_if_gas_is_below` to specify the maximum gas price (in Gwei) you're willing to pay for transactions.
 - `max_Spend_PLS`: The maximum amount of PLS you want to spend on mining.
 - `max_total_transactions`: The maximum number of transactions before the program stops.
