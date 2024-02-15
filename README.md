@@ -60,7 +60,7 @@ The script will automatically handle the mining process based on the configured 
 
 ## License
 
-Specify the license under which this script is released, e.g., MIT, GPL, etc.
+The open source license under which this script is released: MIT
 
 
 ## Follow Us:
