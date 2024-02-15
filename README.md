@@ -17,6 +17,9 @@
 - Transfer mined E.BTC tokens and leftover PLS back to the main wallet.
 - Detailed logging of mining activities and transactions.
 
+## Video Demo
+
+- https://twitter.com/xenpub/status/1757975948614381868
 
 ## Requirements
 
@@ -58,4 +61,23 @@ The script will automatically handle the mining process based on the configured 
 ## License
 
 Specify the license under which this script is released, e.g., MIT, GPL, etc.
+
+
+## Follow Us:
+
+- https://twitter.com/xenpub/
+
+
+## Donate
+
+- If we saved you time or money: https://xen.pub/donate.php
+
+
+# DISCLAIMER:
+
+You are solely responsible for ensuring the secure configuration and operation of this script, including but not limited to protecting it from unauthorized access by third parties. Failure to do so may result in the loss of your private keys, or other cryptocurrencies stored in your account. You should exercise caution and only run this script on a secure workstation or server.
+By using this script, you acknowledge that you understand the inherent risks associated with running this script and that you agree to use this script at your own risk.
+The creator of this script will not be held liable for any damages, loss of funds, or other negative consequences that may result from you or any third party using this script.
+You are solely responsible for any actions taken using this script, and for securing your private keys and other sensitive information.
+This script is provided 'as is,' and the creator makes no warranty, express or implied, of any kind.
 
