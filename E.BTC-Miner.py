@@ -8,8 +8,8 @@ from web3 import Web3
 ##################################################
 
 # Wallet info - Enter your SEEDING wallet details (or create manual input for it)
-main_wallet_address = 0xbe4973244b4aF6466DD4B14d23B97795bc48375b
-main_wallet_address_private_key = b748337f5327e374e61396e95147fac5af4c04d722d2f281287935e449553983
+main_wallet_address = 
+main_wallet_address_private_key = 
 # Set gas-related claiming parameters
 only_claim_if_gas_is_below = 800_000
 max_priority_fee_per_gas = 3000 # work in progress towards removing it
